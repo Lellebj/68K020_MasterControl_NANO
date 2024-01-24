@@ -1,0 +1,8 @@
+.pio
+.vscode/.browse.c_cpp.db*
+.vscode/*.json
+.vscode/ipch
+src/.vscode/*.json
+src/Ar_Z80_mastercontrol.ino.xxxold
+src/Ar_Z80_mastercontrol.cpp.old
+.vscode/*.log
